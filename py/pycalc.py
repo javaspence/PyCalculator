@@ -1,0 +1,11 @@
+print('Enter your first number.')
+number1 = int(input())
+print('Enter your second number.')
+number2 = int(input())
+print('What method would you like to use?')
+print('To use addition, type "add".')
+print('To use subtraction, type "subtract".')
+print('To use multiplication, type "multiply".')
+print('To use division, type "divide".')
+method = str(raw_input())
+
