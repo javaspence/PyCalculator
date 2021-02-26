@@ -1,3 +1,2 @@
 # pycalculator
-A very simple calculator programmed in python.
-That's it.
+This calculator sucks because it is not complete yet bro.
