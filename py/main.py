@@ -5,6 +5,16 @@ import pycalc
 from pycalc import number1, number2, method
 
 if method == str('add'):
-  method_is_two = bool('false')
   print(number1 + number2)
   reload(pycalc)
+
+if method == str('subtract'):
+  print(number1 - number2)
+  reload(pycalc)
+
+if method == str('multiply'):
+  print(number1 * number2)
+  reload(pycalc)
+
+if method == str('divide'):
+  print(number1 / number2)
