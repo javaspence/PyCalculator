@@ -7,5 +7,6 @@ print('To use addition, type "add".')
 print('To use subtraction, type "subtract".')
 print('To use multiplication, type "multiply".')
 print('To use division, type "divide".')
+print('To calculate square root, type "square root" (will calculate your first number)')
 method = str(raw_input())
 
