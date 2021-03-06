@@ -1,2 +1,2 @@
 # pycalculator
-![Github Python Version](https://img.shields.io/github/pipenv/locked/python-version/javaspence/Py-Calculator)
+![Github Python Version](https://img.shields.io/github/pipenv/locked/python-version/javaspence/PyCalculator)
